@@ -1,7 +1,7 @@
 {
-  "name": "pm2-dhis2",
+  "name": "dhis2-analytics",
   "version": "0.1.0",
-  "description": "PM2 DHIS2 Module",
+  "description": "PM2 DHIS2 Analytics Module",
   "main": "app.js",
   "dependencies": {
     "humanize": "0.0.9",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pahrizal/pm2-dhis2.git"
+    "url": "https://github.com/pahrizal/dhis2-analytics.git"
   },
   "config": {
     "cpu_alert": 100,
