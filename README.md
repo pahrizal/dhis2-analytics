@@ -1,4 +1,4 @@
-# pm2-dhis2
+# dhis2-analytics
 
 DHIS2 module for Keymetrics
 
@@ -6,24 +6,19 @@ DHIS2 module for Keymetrics
 
 ## Description
 
-PM2 module untuk memonitor DHIS2 server metrics:
-
--   Pemakaian CPU
--   Pemakaian Memory
--   Restart DHIS2
-
+PM2 module untuk eksekusi DHIS2 analytics:
 ## Install
 
 ```bash
 $ npm install pm2 -g
 
-$ pm2 install pahrizal/pm2-dhis2
+$ pm2 install pahrizal/dhis2-analytics
 ```
 
 ## Uninstall
 
 ```bash
-$ pm2 uninstall pm2-dhis2
+$ pm2 uninstall dhis2-analytics
 ```
 
 # License
